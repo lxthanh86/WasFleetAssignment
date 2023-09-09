@@ -1,0 +1,21 @@
+# File data of airports
+# IATAcode    Capacity
+         BMV         100
+         CAH         100
+         VCA         100
+         HPH         100
+         VCL         100
+         VCS         100
+         DLI         100
+         DAD         100
+         DIN         100
+         VDH         100
+         HAN         100
+         HUI         100
+         CXR         100
+         PQC         100
+         PXU         100
+         UIH         100
+         SGN         100
+         TBB         100
+         VII         100
